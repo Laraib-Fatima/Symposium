@@ -1,6 +1,6 @@
-### ![image](https://github.com/Laraib-Fatima/Symposium/assets/63666994/be05dd58-9701-469f-a1c8-fcd2b30f6de6)
+# ![image](https://github.com/Laraib-Fatima/Symposium/assets/63666994/be05dd58-9701-469f-a1c8-fcd2b30f6de6)
 
-## REFERENCES
+### REFERENCES
 
 1. Mauro, D., Forte, G., Poddubnyy, D., et al. (2024). [The Role of Early Treatment in the Management of Axial Spondyloarthritis: Challenges and Opportunities](https://doi.org/10.1007/s40744-023-00627-0). *Rheumatology Therapy*, 11, 19–34.
 
